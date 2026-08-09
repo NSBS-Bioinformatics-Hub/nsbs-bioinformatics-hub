@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🧬 NSBS National Bioinformatics Hub
+**Motto:** *Decoding Life, Empowering the Future*
 
-<!--
-**NSBS-Bioinformatics-Hub/nsbs-bioinformatics-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the official digital hub of the **Nigerian Society of Biochemistry Students (NSBS)**. This platform is designed to bridge the gap between biological research and computational innovation for all biochemistry students in Nigeria.
 
-Here are some ideas to get you started:
+## 🚀 Our Mission
+To provide a centralized repository of tools, data, and knowledge to transform Nigerian biochemistry students into world-class "Digital Biologists."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Toolkit
+- **Programming:** Python scripts for Genomic Analysis.
+- **Data Science:** R and Biostatistics workflows.
+- **Modeling:** Homology modeling and Molecular Docking resources.
+
+## 📚 Learning Resources
+- [NSBS National E-Library](https://drive.google.com/...) *(Zamu saka link din Drive dinka anan)*
+- Curated Bioinformatics Journals.
+- Open-source software links (PyMOL, ChimeraX, etc.)
+
+## 📢 Leadership
+**Coordinator:** Rt. Hon. Timothy Precious Nansel (National President)
+**Technical Lead:** Hon. Aliyu-Haidar Abubakar Tanimu (SA on Digital Transformation & Innovation)
+
+---
+*Built with ❤️ by the Office of the SA on Digital Transformation & Innovation.*
