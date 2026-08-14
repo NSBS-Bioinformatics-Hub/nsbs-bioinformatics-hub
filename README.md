@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- OFFICIAL NSBS LOGO -->
+  <!-- NSBS  LOGO -->
   <img src="https://raw.githubusercontent.com/haidarbiochemist/nsbs-bioinformatics-hub/main/logo.png" alt="NSBS National Logo" width="180" />
 
   <br />
